@@ -53,3 +53,10 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+
+.source {
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 14px;
+  padding: 5px;
+}
